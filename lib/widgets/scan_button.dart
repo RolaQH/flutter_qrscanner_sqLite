@@ -17,7 +17,7 @@ class ScanButton extends StatelessWidget {
 
         //final barcodeScanRes = 'https://www.google.com.pe';
 
-        if (borderScanRes == '-1') {
+        if (barcodeScanRes == '-1') {
           return;
         }
 
